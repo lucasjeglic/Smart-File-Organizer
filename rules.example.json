@@ -1,0 +1,7 @@
+{
+  "rules": [
+    {"pattern": "invoice*", "folder": "Invoices"},
+    {"pattern": "screenshot*", "folder": "Screenshots"},
+    {"pattern": "*cv*", "folder": "Personal"}
+  ]
+}

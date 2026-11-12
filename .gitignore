@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+demo-folder/
+Smart-File-Organizer.pdf
